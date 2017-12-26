@@ -1,12 +1,6 @@
-[![Join the chat at https://gitter.im/volumio/Volumio2](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/volumio/Volumio2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/volumio/Volumio2.svg?branch=master)](https://travis-ci.org/volumio/Volumio2)
-[![dependencies](https://david-dm.org/volumio/Volumio2.svg)](https://david-dm.org/volumio/Volumio2)
-[![bitHound Score](https://www.bithound.io/github/volumio/Volumio2/badges/score.svg)](https://www.bithound.io/github/volumio/Volumio2)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/thibmaek/awesome-raspberry-pi)
+## Wave – background
+Wave aims to be a modern audio gui based on Volumio, this forks main mission is to modernize the look and feel of the volumio project and migrate it to a vuejs project
 
-[![Volumio](https://volumio.org/wp-content/uploads/2016/02/Volumio_logo_HD2000.jpg)](https://volumio.org)
 
 Volumio is an headless audiophile music player, designed to play music with the highest possible fidelity. Volumio runs on most embedded devices (Raspberry Pi, UDOO, Odroid, Cubieboard, Beaglebone, Pine64, Allo Sparky...) and on any ordinary PC (x86).
 
